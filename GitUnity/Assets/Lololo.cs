@@ -10,6 +10,7 @@ public class Lololo : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		//SHUBEDIDAPIDO JAG HETER WABUU OCH DET ÄR BARA SHUBEDIDABBI SHUBBEDIDAPABOO
 	
 	}
 }
